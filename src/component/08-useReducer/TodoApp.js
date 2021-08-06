@@ -51,7 +51,7 @@ export const TodoApp = () => {
 
     return (
         <div className="container">
-            <h6 className=" text-primary text-end"
+            <h6 className=" text-primary text-end mt-2"
                             
             >by Clemen</h6>
             <h4 className="text-decoration-underline">
